@@ -10,15 +10,17 @@ A passionate Front End Developer from Anatolien
 - [Yasin Yavuz](https://github.com/barbaros163)
 
 
-# Firecontact Project
-Coming Soon
+# E-Commerce Project 1
+
+## Demo
+https://barbaros163.github.io/07_fire_contact_solution_react/
 ## 🛠 Skills
 HTML, CSS, JAVASCRIPT
 
 
 ## Tech Stack
 
-**Client:** React, Mui
+**Client:** React, Redux, Mui
 
 **Server:** Node
 
@@ -68,8 +70,6 @@ To run this project, you will need to add the following environment variables to
 `ANOTHER_API_KEY`
 
 
-## Demo
-https://barbaros163.github.io/07_fire_contact_solution_react/
 ## Feedback
 
 If you have any feedback, please reach out to me at barbaros1675@gmail.com
