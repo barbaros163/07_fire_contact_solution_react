@@ -18,7 +18,7 @@ HTML, CSS, JAVASCRIPT
 
 ## Tech Stack
 
-**Client:** React, Redux, Mui
+**Client:** React, Mui
 
 **Server:** Node
 
