@@ -10,7 +10,7 @@ A passionate Front End Developer from Anatolien
 - [Yasin Yavuz](https://github.com/barbaros163)
 
 
-# E-Commerce Project 1
+# Firecontact Project
 Coming Soon
 ## 🛠 Skills
 HTML, CSS, JAVASCRIPT
